@@ -1,0 +1,13 @@
+Project Details:
+- Subscription: Your Azure subscription
+- Resource Group: Create new or select existing
+
+Instance Details:
+- Name: your-app-name (must be unique)
+- Publish: Code
+- Runtime stack: Node 18 LTS
+- Operating System: Linux (recommended)
+- Region: Choose closest to your users
+
+App Service Plan:
+- Plan: Free F1 (for testing) or Production plan
